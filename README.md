@@ -1,2 +1,4 @@
 # Pomodoro_App
-Pomodoro timer app
+Pomodoro timer App
+
+Hello world
